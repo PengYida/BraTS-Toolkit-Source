@@ -16,7 +16,7 @@ setuptools.setup(
     zip_safe=False,
     install_requires=[
         'SimpleITK==2.1.1',
-        'numpy==1.22.0',
+        'numpy==1.21.6',
         'python-engineio==3.14.2',
         'python-socketio==4.6.1',
         'requests==2.24.0'
